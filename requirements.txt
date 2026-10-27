@@ -1,0 +1,7 @@
+# Python 3.12.10
+# Package versions used for the published simulations (all buffer systems).
+numpy==2.2.6
+scipy==1.16.0
+pandas==2.2.3
+matplotlib==3.10.3
+numba==0.61.2
